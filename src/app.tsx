@@ -151,6 +151,7 @@ export function App() {
     m: 0,
     s: 0,
   });
+  // [TODO] Migrate to react hook form
 
   return (
     <div>
